@@ -19,7 +19,7 @@ allprojects {
         google()
         mavenCentral()
         maven {
-            url "https://raw.githubusercontent.com/ziylanmedya/ZMCameraKit-Android/main/com/ziylanmedya/zmckit/1.0.0/zmckit-1.0.0.pom"
+            url "https://raw.githubusercontent.com/ziylanmedya/ZMCameraKit-Android/main/"
         }
     }
 }
