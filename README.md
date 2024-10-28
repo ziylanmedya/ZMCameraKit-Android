@@ -1,6 +1,6 @@
 # ZMCameraKit-Android
 
-ZMCameraKit is an Android library that simplifies the integration of camera functionalities in your applications. This library is designed to work seamlessly with the CameraActivity for capturing images and videos.
+ZMCameraKit is an Android library that simplifies the integration of camera functionalities into your applications. This library is designed to work seamlessly with CameraActivity for capturing images and videos.
 
 ## Table of Contents
 - [Installation](#installation)
