@@ -38,7 +38,7 @@ In your app-level `build.gradle` file, add the following dependency:
 
 ```groovy
 dependencies {
-    implementation 'com.ziylanmedya:zmckit:1.0.3'
+    implementation 'com.ziylanmedya:zmckit:1.0.8'
 }
 ```
 
